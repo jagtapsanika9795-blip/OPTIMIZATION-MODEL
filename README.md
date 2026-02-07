@@ -37,4 +37,3 @@ Python
 PuLP (Linear Programming Library)
 ## Output
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/d27b7911-6c3d-43f4-ad8f-8d2393cd99d0" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8d6244c5-4fdd-4a19-8499-265a54a8dc2a" />
